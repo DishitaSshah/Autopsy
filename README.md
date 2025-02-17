@@ -11,6 +11,8 @@ Features we implemented-
 4.	Timeline Analysis - The tool generates an interactive timeline of file modifications, deletions, system events, and user activities. This helps forensic investigators visualize the chronological order of events, making it easier to identify suspicious actions and reconstruct digital crime scenes.
 5.	Report Generation - Autopsy automatically generates forensic reports summarizing key findings, extracted artifacts, keyword search results, and system analysis outcomes. These reports are essential for legal proceedings, compliance audits, and cybersecurity assessments.
 
+Refer the Document for a guide to step by step implementation 
+
 Windows Download - https://github.com/sleuthkit/autopsy/releases/download/autopsy-4.21.0/autopsy-4.21.0-64bit.msi
 Linux Download - https://github.com/sleuthkit/autopsy/releases/download/autopsy-4.21.0/autopsy-4.21.0.zip
 
